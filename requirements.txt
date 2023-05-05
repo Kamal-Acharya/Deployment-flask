@@ -1,3 +1,7 @@
+Flask
+pandas
+matplotlib
+numpy
 certifi==2022.12.7
 charset-normalizer==3.1.0
 httplib2==0.22.0
@@ -6,4 +10,4 @@ numpy==1.24.3
 pyparsing==3.0.9
 requests==2.28.2
 urllib3==1.26.1
-scikit-learn
+scikit-learn==1.2
